@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Learning Redux Toolkit
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a repo for practical implementation of Redux Toolkit by following Youtube Video: [React Redux Full Course for Beginners by Dave Gray](https://www.youtube.com/watch?v=NqzdVN2tyvQ) 
 
 ## Available Scripts
 
